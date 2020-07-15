@@ -1,5 +1,5 @@
 ```haskell
-main :: IO
+main :: IO ()
 main
   = putStrLn "howdy"
 ```
