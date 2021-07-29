@@ -32,11 +32,12 @@ TIPS
 
 
 AUTHOR
-       J.  Grant  was  the original author of wdhg.  They released version wdhg 1.0, and was the maintainer for
-       versions 1.0 through 17.0.  As of release 18.0, wdhg has become self managed and no longer  requires  an
-       active maintainer.
+       J.  Grant  was the original author of wdhg.  They released wdhg 1.0, and was the maintainer for versions
+       1.0 through 17.0.  As of release 18.0, wdhg has become self managed and no  longer  requires  an  active
+       maintainer.
 
 
 
                                                                                                         wdhg(1)
+
 ```
